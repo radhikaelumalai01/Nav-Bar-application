@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<title></title>
+<link href="style.css" rel="stylesheet">
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+  <section class="testimonials">
+    <div class="container">
+      <h1>Student Reviews</h1>
+      <div class="row">
+        <div class="col-md-4 text-center">
+          <div class="profile">
+          <img src="https://us.123rf.com/450wm/kadettmann/kadettmann1504/kadettmann150400093/39321949-passport-picture-of-a-laughing-turkish-businesswoman.jpg?ver=6" class="user">
+          <blockquote>It was my immense luck and fortune to be the part of Sharda University where I can grow. The entire faculty and department leaves no stone unturned to shape one\'s future. My four years at Sharda have been a wonderful experience of learning with prolific exposure to outside. Huge respect, love and devotion for entire faculty members and department. It\'s their efforts that make me to count myself into better professionals.</blockquote>
+          <h3>Keerthi.M.S <span>EEE dept, 2014-2018</span></h3>
+          </div>
+        </div>
+        <div class="col-md-4 text-center">
+          <div class="profile">
+          <img src="https://i.pinimg.com/originals/31/6a/88/316a88fc2d46f4243ddec234f442d5a3.jpg" class="user">
+          <blockquote>Sharda University has been a great contributor to the development of my personality. I have established my leadership, time management and team skills and have also been able to advance these skills to the whole new augment level. The infrastructure of Sharda University is one of the finest in the NCR region is what stands out the most. The best thing about this University is the cross-culture interaction between students from various parts of the world.</blockquote>
+          <h3>Aakash Sharma <span>ECE dept, 2013-2017</span></h3>
+          </div>
+        </div>
+        <div class="col-md-4 text-center">
+          <div class="profile">
+          <img src="https://www.persofoto.com/images/vorher-nachher/passfoto-beispiel-nachher.jpg" class="user">
+          <blockquote>My four years at Sharda were great and a memory to cherish for lifetime. It was full of learning and grooming oneself. It gave me an opportunity to meet different kind of people and learned many things. I am thankful to all the faculties, mentors and entire SET as well as placement cell. Overall it was a great experience and lifetime memory at Sharda.</blockquote>
+          <h3>Stella.A <span>Chemical dept, 2016-2020</span></h3>
+          </div>
+        </div>
+        <div class="col-md-4 text-center">
+          <div class="profile">
+          <img src="https://lh3.googleusercontent.com/proxy/nllvujpZ0ZSyC-GX_SjRGWgjXtgAX1O3vXVZvNPOcWQveady95B1GAp5aCVLrTMgI7IJrWLX5leax3IZw1m__pQ7xB7QHXZ5eQlSF-g" class="user">
+          <blockquote>Sharda University is a place where you can find an amalgamation of learning. I feel  great studying at Sharda University as it gives great opportunity as well as support from faculties and placement officers. Getting placed in Wipro is an achievement for me for which i would like to thank Sharda university.</blockquote>
+          <h3>Abhishek.M <span>BME dept, 2015-2019</span></h3>
+          </div>
+        </div>
+        <div class="col-md-4 text-center">
+          <div class="profile">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQEUKTtjStgvVQAEKW3-GINIsEer1wlS3ONCA&usqp=CAU" class="user">
+          <blockquote>My four years at Sharda University have been excellent and a memory to cherish for a lifetime. The years spent here have been full of learning opportunities that were full of fun and frolic and sometimes with academic grind that one has to go through.</blockquote>
+          <h3>Abhimanyu.R <span>CSE dept, 2014-2018</span></h3>
+          </div>
+        </div>
+        <div class="col-md-4 text-center">
+          <div class="profile">
+          <img src="https://rmiofmaryland.com/wp-content/uploads/2015/10/MHC_5150_PP.jpg" class="user">
+          <blockquote>Sharda University is great place to learn.It gives me great to say with pride that i have completed my B.tech in cse from this University.The relationship between faculities and student is very cordial, which gave me an opportunity to excel in my area of interest.</blockquote>
+          <h3>Fathima.D <span>Mechanical dept, 2012-2016</span></h3>
+          </div>
+        </div>
+        <div class="col-md-4 text-center">
+          <div class="profile">
+          <img src="https://d.novoresume.com/images/blogs/56cfc5d0-9f09-11e9-89a0-8dba047d8761.jpeg" class="user">
+          <blockquote>For Sharda University, "The world is here, where are you" is not just a slogan but I lived it in reality. Sharda is a beautiful and historic place where people from different nationalities meet together to share one common goal, EDUCATION.</blockquote>
+          <h3>Avinash Gupta <span>Civil dept, 2014-2018</span></h3>
+          </div>
+        </div>
+        <div class="col-md-4 text-center">
+          <div class="profile">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR92W_WIu0TVJZc9xSPWD9KYGDRDtClS-SsXA&usqp=CAU" class="user">
+          <blockquote>I thank my ECE department and its faculty members for encouraging me to think globally and spread my wings to take off for the land of rising Sun and I appreciate the support of my university for shaping my career and getting me placed in such big MNCs.</blockquote>
+          <h3>Vaishnavi.K <span>ECE dept, 2015-2019</span></h3>
+          </div>
+        </div>
+        <div class="col-md-4 text-center">
+          <div class="profile">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR46pGmL8OH9llAq8_pEttt9y7KQV3XkdFnTw&usqp=CAU" class="user">
+          <blockquote>During my stay of four years in Sharda University, I came across various people of different country and culture. I had received a lot of opportunities to groom myself, thanks to my ever inspiring mentors who helped me to discover the talented part of myself.</blockquote>
+          <h3>Anu.S <span>EEE dept, 2013-2017</span></h3>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</body>
+</html>
